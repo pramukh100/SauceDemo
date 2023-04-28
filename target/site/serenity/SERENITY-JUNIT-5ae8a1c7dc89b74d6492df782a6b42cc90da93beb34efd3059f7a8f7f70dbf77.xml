@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Purchase some products" skipped="0" tests="4" time="45.62" timestamp="2023-04-28 02:01:42"><testcase name="standard user product purchase journey"/><testcase name="locked out user  journey"/><testcase name="problem user  journey"/><testcase name="performance glitch user  journey"/></testsuite>
